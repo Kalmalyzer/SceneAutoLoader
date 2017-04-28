@@ -1,0 +1,20 @@
+
+# Ignore Unity/Visual Studio generated files
+Library
+Temp
+.vs
+*.sln
+*.csproj
+Build.*.log
+Build
+
+# Ignore all folders & files from Photon Unity Networking
+Assets/Photon Unity Networking
+Assets/Photon Unity Networking.meta
+Assets/PhotonChatApi
+Assets/PhotonChatApi.meta
+Assets/Plugins
+Assets/Plugins.meta
+
+# Ignore Unity project configuration
+ProjectSettings
